@@ -1,1 +1,38 @@
-
+body{
+                
+}
+.map{
+    border-radius:10% 10% 10% 10%;
+    box-shadow:0px 0px 10px lightgray;
+    margin:5%;
+}
+.map:hover{
+    border-radius:10% 10% 10% 10%;
+    box-shadow:0px 0px 15px lightgray;
+}
+.mapimg{
+    width:100%;
+    border-radius:10% 10% 0% 0%;
+    
+}
+.des{
+    text-align:center;
+    padding:1em;
+    padding-bottom:1.5em;
+}
+#top{
+    text-align:center;
+    font-family:arial;
+    
+    background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/World_Map_1689.JPG/640px-World_Map_1689.JPG");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding:0em;
+      margin-bottom:10%;
+}
+#gradient{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(255,255,255,1));
+    padding:1em;
+}
