@@ -1,6 +1,6 @@
 body{
-                
-}
+    font-family: Arial, Helvetica, sans-serif;
+}   
 .map{
     border-radius:10% 10% 10% 10%;
     box-shadow:0px 0px 10px lightgray;
