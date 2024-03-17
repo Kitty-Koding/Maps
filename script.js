@@ -1,5 +1,5 @@
-var fi = function(txt){
-    return document.getElementById(txt);
+var fi = function(txte){
+    return document.getElementById(txte);
  }
  var urls = ["Maps/Map25.jpg","Maps/Map26.jpg","Maps/Map27.jpg"];
  var dates=["2010","2015","2020"];
