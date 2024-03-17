@@ -1,8 +1,8 @@
 var fi = function(txt){
     return document.getElementById(txt);
  }
- var urls = ["https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/avatar-team.png","https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/cat.png"];
- var dates=["2010","2015"];
+ var urls = ["Maps/Map25.jpg","Maps/Map26.jpg","Maps/Map27.jpg"];
+ var dates=["2010","2015","2020"];
  var on = 0;
  var change = true;
  window.setInterval(function(){
